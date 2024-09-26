@@ -33,51 +33,42 @@ Wild Oasis is a boutique hotel application designed to manage bookings for 8 lux
 
 ## Screenshots
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
 
-  <div style="margin: 5px;">
-    <img src="public/Login.PNG" alt="Login Screenshot" width="300"/>
-    <p>Login page for users to enter their credentials.</p>
+  <div style="flex: 1 1 300px; margin: 5px;">
+    <img src="public/Login.PNG" alt="Login Screenshot" width="100%"/>
   </div>
   
-  <div style="margin: 5px;">
-    <img src="public/Dashboard-lbg.PNG" alt="Dashboard Screenshot" width="300"/>
-    <p>Dashboard displaying guest statistics and booking information.</p>
+  <div style="flex: 1 1 300px; margin: 5px;">
+    <img src="public/Dashboard-lbg.PNG" alt="Dashboard Screenshot" width="100%"/>
   </div>
 
-  <div style="margin: 5px;">
-    <img src="public/Dashboard.PNG" alt="Dashboard-Darkmode Screenshot" width="300"/>
-    <p>Dashboard in dark mode.</p>
+  <div style="flex: 1 1 300px; margin: 5px;">
+    <img src="public/Dashboard.PNG" alt="Dashboard-Darkmode Screenshot" width="100%"/>
   </div>
 
-  <div style="margin: 5px;">
-    <img src="public/Cabins-lbg.PNG" alt="Cabins Screenshot" width="300"/>
-    <p>Table view of cabin bookings.</p>
+  <div style="flex: 1 1 300px; margin: 5px;">
+    <img src="public/Cabins-lbg.PNG" alt="Cabins Screenshot" width="100%"/>
   </div>
 
-  <div style="margin: 5px;">
-    <img src="public/Bookings-lbg.png" alt="Bookings Screenshot" width="300"/>
-    <p>Overview of all bookings.</p>
+  <div style="flex: 1 1 300px; margin: 5px;">
+    <img src="public/Bookings-lbg.png" alt="Bookings Screenshot" width="100%"/>
   </div>
 
-  <div style="margin: 5px;">
-    <img src="public/modal-lbg.PNG" alt="Upload Modal Screenshot" width="300"/>
-    <p>Modal for uploading notes or files.</p>
+  <div style="flex: 1 1 300px; margin: 5px;">
+    <img src="public/modal-lbg.PNG" alt="Upload Modal Screenshot" width="100%"/>
   </div>
 
-  <div style="margin: 5px;">
-    <img src="public/hotel-lbg.PNG" alt="Hotel Settings Screenshot" width="300"/>
-    <p>User settings page showing profile information.</p>
+  <div style="flex: 1 1 300px; margin: 5px;">
+    <img src="public/hotel-lbg.PNG" alt="Hotel Settings Screenshot" width="100%"/>
   </div>
 
-  <div style="margin: 5px;">
-    <img src="public/create-lbg.PNG" alt="Create User Screenshot" width="300"/>
-    <p>Page for creating a new user.</p>
+  <div style="flex: 1 1 300px; margin: 5px;">
+    <img src="public/create-lbg.PNG" alt="Create User Screenshot" width="100%"/>
   </div>
 
-  <div style="margin: 5px;">
-    <img src="public/settings.PNG" alt="Settings Screenshot" width="300"/>
-    <p>Settings page for managing user profile.</p>
+  <div style="flex: 1 1 300px; margin: 5px;">
+    <img src="public/settings.PNG" alt="Settings Screenshot" width="100%"/>
   </div>
 
 </div>
