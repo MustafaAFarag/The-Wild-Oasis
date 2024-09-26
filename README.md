@@ -31,6 +31,55 @@ Wild Oasis is a boutique hotel application designed to manage bookings for 8 lux
   - Displays full name, email, nationality, and country flag. Users can change their full name, avatar, and email.
 - **Dark Mode**: Implemented for a better user experience.
 
+## Technologies Used
+
+Wild Oasis is built using modern web technologies to ensure a robust and efficient application:
+
+- **Core Technologies**:
+
+  - React: A JavaScript library for building user interfaces
+  - Vite: A build tool that provides faster and leaner development experience
+
+- **State Management and Data Fetching**:
+
+  - @tanstack/react-query: For efficient server state management and data fetching
+  - @supabase/supabase-js: Supabase client for database operations
+
+- **UI and Styling**:
+
+  - styled-components: For component-based styling
+  - react-icons: Popular icon packs as React components
+
+- **Routing**:
+
+  - react-router-dom: For declarative routing in React applications
+
+- **Form Handling**:
+
+  - react-hook-form: For efficient form state management and validation
+
+- **Data Visualization**:
+
+  - recharts: A composable charting library for React
+
+- **Date Manipulation**:
+
+  - date-fns: Modern JavaScript date utility library
+
+- **User Experience**:
+
+  - react-hot-toast: For displaying toast notifications
+
+- **Error Handling**:
+
+  - react-error-boundary: For declarative error handling in React
+
+- **Development Tools**:
+  - ESLint: For identifying and fixing problems in JavaScript code
+  - TypeScript: For type checking (dev dependency)
+
+This tech stack ensures a modern, performant, and maintainable web application with a great developer experience.
+
 ## Screenshots
 
 <table>
