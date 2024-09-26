@@ -33,54 +33,23 @@ Wild Oasis is a boutique hotel application designed to manage bookings for 8 lux
 
 ## Screenshots
 
-<div style="display: flex;">
-
-  <div style="margin: 5px;">
-    <img src="public/Login.PNG" alt="Login Screenshot" width="300"/>
-   
-  </div>
-  
-  <div style="margin: 5px;">
-    <img src="public/Dashboard-lbg.PNG" alt="Dashboard Screenshot" width="300"/>
-   
-  </div>
-
-  <div style="margin: 5px;">
-    <img src="public/Dashboard.PNG" alt="Dashboard-Darkmode Screenshot" width="300"/>
-   
-  </div>
-
-  <div style="margin: 5px;">
-    <img src="public/Cabins-lbg.PNG" alt="Cabins Screenshot" width="300"/>
-    
-  </div>
-
-  <div style="margin: 5px;">
-    <img src="public/Bookings-lbg.png" alt="Bookings Screenshot" width="300"/>
-   
-  </div>
-
-  <div style="margin: 5px;">
-    <img src="public/modal-lbg.PNG" alt="Upload Modal Screenshot" width="300"/>
-    
-  </div>
-
-  <div style="margin: 5px;">
-    <img src="public/hotel-lbg.PNG" alt="Hotel Settings Screenshot" width="300"/>
-    
-  </div>
-
-  <div style="margin: 5px;">
-    <img src="public/create-lbg.PNG" alt="Create User Screenshot" width="300"/>
-    
-  </div>
-
-  <div style="margin: 5px;">
-    <img src="public/settings.PNG" alt="Settings Screenshot" width="300"/>
-    
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td><img src="public/Login.PNG" alt="Login Screenshot" width="400"/></td>
+    <td><img src="public/Dashboard-lbg.PNG" alt="Dashboard Screenshot" width="400"/></td>
+    <td><img src="public/Dashboard.PNG" alt="Dashboard-Darkmode Screenshot" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="public/Cabins-lbg.PNG" alt="Cabins Screenshot" width="400"/></td>
+    <td><img src="public/Bookings-lbg.png" alt="Bookings Screenshot" width="400"/></td>
+    <td><img src="public/modal-lbg.PNG" alt="Upload Modal Screenshot" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="public/hotel-lbg.PNG" alt="Hotel Settings Screenshot" width="400"/></td>
+    <td><img src="public/create-lbg.PNG" alt="Create User Screenshot" width="400"/></td>
+    <td><img src="public/settings.PNG" alt="Settings Screenshot" width="400"/></td>
+  </tr>
+</table>
 
 ## Getting Started
 
